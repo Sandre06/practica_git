@@ -1,1 +1,2 @@
 HOLA MUNDO
+acualizamos en archivo.txt desde main
